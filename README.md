@@ -1,9 +1,9 @@
 # Realtime Chat Application
 
-![Project Image](/images/chat-app-home.png)
+![Project Image](/images/chat-app-home.PNG)
 &nbsp;
 &nbsp;
-![Project Image](/images/chat-app-login.png)
+![Project Image](/images/chat-app-login.PNG)
 
 > Simple android chat application built using Java and firebase.
 
